@@ -1,0 +1,9 @@
+message|s:308:"<!-- DEBUG-VIEW START 1 APPPATH\ThirdParty\CodeIgniter-Ion-Auth-4.0.3\Views\Messages\list.php -->
+	<div class="alert alert-info" role="alert">
+		<ul>
+					<li>Logged Out Successfully</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 APPPATH\ThirdParty\CodeIgniter-Ion-Auth-4.0.3\Views\Messages\list.php -->
+";__ci_vars|a:1:{s:7:"message";s:3:"old";}__ci_last_regenerate|i:1646122222;_ci_previous_url|s:32:"http://localhost/casn/auth/login";

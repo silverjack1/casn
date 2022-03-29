@@ -1,0 +1,7 @@
+CRITICAL - 2022-03-13 23:59:17 --> Undefined index: site_info
+#0 C:\xampp\htdocs\casn\app\Controllers\Usermenu.php(56): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 56, Array)
+#1 C:\xampp\htdocs\casn\system\CodeIgniter.php(824): App\Controllers\Usermenu->model()
+#2 C:\xampp\htdocs\casn\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usermenu))
+#3 C:\xampp\htdocs\casn\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\casn\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

@@ -1,0 +1,195 @@
+CRITICAL - 2022-03-01 00:20:35 --> Undefined property: CodeIgniter\View\View::$ionAuth
+#0 C:\xampp\htdocs\casn\app\Views\temp\sidebar.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 19, Array)
+#1 C:\xampp\htdocs\casn\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\casn\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\casn\system\View\View.php(432): CodeIgniter\View\View->render('temp/sidebar', NULL, true)
+#4 C:\xampp\htdocs\casn\app\Views\temp\tempcore.php(3): CodeIgniter\View\View->include('temp/sidebar')
+#5 C:\xampp\htdocs\casn\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\casn\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\casn\system\View\View.php(230): CodeIgniter\View\View->render('temp/tempcore', Array, true)
+#8 C:\xampp\htdocs\casn\system\Common.php(1097): CodeIgniter\View\View->render('admin/index', Array, true)
+#9 C:\xampp\htdocs\casn\app\Controllers\Home.php(9): view('admin/index')
+#10 C:\xampp\htdocs\casn\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#11 C:\xampp\htdocs\casn\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#12 C:\xampp\htdocs\casn\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\casn\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2022-03-01 00:21:14 --> Undefined property: CodeIgniter\View\View::$ionAuth
+#0 C:\xampp\htdocs\casn\app\Views\temp\sidebar.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 19, Array)
+#1 C:\xampp\htdocs\casn\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\casn\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\casn\system\View\View.php(432): CodeIgniter\View\View->render('temp/sidebar', NULL, true)
+#4 C:\xampp\htdocs\casn\app\Views\temp\tempcore.php(3): CodeIgniter\View\View->include('temp/sidebar')
+#5 C:\xampp\htdocs\casn\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\casn\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\casn\system\View\View.php(230): CodeIgniter\View\View->render('temp/tempcore', Array, true)
+#8 C:\xampp\htdocs\casn\system\Common.php(1097): CodeIgniter\View\View->render('admin/index', Array, true)
+#9 C:\xampp\htdocs\casn\app\Controllers\Home.php(9): view('admin/index')
+#10 C:\xampp\htdocs\casn\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#11 C:\xampp\htdocs\casn\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#12 C:\xampp\htdocs\casn\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\casn\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2022-03-01 00:22:10 --> Undefined property: CodeIgniter\View\View::$ionAuth
+#0 C:\xampp\htdocs\casn\app\Views\temp\sidebar.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 21, Array)
+#1 C:\xampp\htdocs\casn\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\casn\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\casn\system\View\View.php(432): CodeIgniter\View\View->render('temp/sidebar', NULL, true)
+#4 C:\xampp\htdocs\casn\app\Views\temp\tempcore.php(3): CodeIgniter\View\View->include('temp/sidebar')
+#5 C:\xampp\htdocs\casn\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\casn\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\casn\system\View\View.php(230): CodeIgniter\View\View->render('temp/tempcore', Array, true)
+#8 C:\xampp\htdocs\casn\system\Common.php(1097): CodeIgniter\View\View->render('admin/index', Array, true)
+#9 C:\xampp\htdocs\casn\app\Controllers\Home.php(9): view('admin/index')
+#10 C:\xampp\htdocs\casn\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#11 C:\xampp\htdocs\casn\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#12 C:\xampp\htdocs\casn\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\casn\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2022-03-01 00:22:31 --> Undefined property: CodeIgniter\View\View::$ionAuth
+#0 C:\xampp\htdocs\casn\app\Views\temp\sidebar.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 21, Array)
+#1 C:\xampp\htdocs\casn\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\casn\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\casn\system\View\View.php(432): CodeIgniter\View\View->render('temp/sidebar', NULL, true)
+#4 C:\xampp\htdocs\casn\app\Views\temp\tempcore.php(3): CodeIgniter\View\View->include('temp/sidebar')
+#5 C:\xampp\htdocs\casn\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\casn\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\casn\system\View\View.php(230): CodeIgniter\View\View->render('temp/tempcore', Array, true)
+#8 C:\xampp\htdocs\casn\system\Common.php(1097): CodeIgniter\View\View->render('admin/index', Array, true)
+#9 C:\xampp\htdocs\casn\app\Controllers\Home.php(9): view('admin/index')
+#10 C:\xampp\htdocs\casn\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#11 C:\xampp\htdocs\casn\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#12 C:\xampp\htdocs\casn\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\casn\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+ERROR - 2022-03-01 00:31:08 --> Duplicate entry '1' for key 'PRIMARY'
+CRITICAL - 2022-03-01 00:40:35 --> Undefined property: App\Controllers\Home::$ionAuth
+#0 C:\xampp\htdocs\casn\app\Controllers\Home.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 10, Array)
+#1 C:\xampp\htdocs\casn\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\casn\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\casn\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\casn\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-01 00:41:49 --> Undefined property: App\Controllers\Home::$ionAuth
+#0 C:\xampp\htdocs\casn\app\Controllers\Home.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 10, Array)
+#1 C:\xampp\htdocs\casn\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\casn\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\casn\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\casn\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-01 00:44:59 --> Undefined property: CodeIgniter\View\View::$ionAuth
+#0 C:\xampp\htdocs\casn\app\Views\temp\sidebar.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 19, Array)
+#1 C:\xampp\htdocs\casn\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\casn\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\casn\system\View\View.php(432): CodeIgniter\View\View->render('temp/sidebar', NULL, true)
+#4 C:\xampp\htdocs\casn\app\Views\temp\tempcore.php(3): CodeIgniter\View\View->include('temp/sidebar')
+#5 C:\xampp\htdocs\casn\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\casn\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\casn\system\View\View.php(230): CodeIgniter\View\View->render('temp/tempcore', Array, true)
+#8 C:\xampp\htdocs\casn\system\Common.php(1097): CodeIgniter\View\View->render('admin/index', Array, true)
+#9 C:\xampp\htdocs\casn\app\Controllers\Home.php(15): view('admin/index')
+#10 C:\xampp\htdocs\casn\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#11 C:\xampp\htdocs\casn\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#12 C:\xampp\htdocs\casn\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\casn\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2022-03-01 00:50:58 --> Undefined property: CodeIgniter\View\View::$ionAuth
+#0 C:\xampp\htdocs\casn\app\Views\temp\sidebar.php(18): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 18, Array)
+#1 C:\xampp\htdocs\casn\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\casn\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\casn\system\View\View.php(432): CodeIgniter\View\View->render('temp/sidebar', NULL, true)
+#4 C:\xampp\htdocs\casn\app\Views\temp\tempcore.php(3): CodeIgniter\View\View->include('temp/sidebar')
+#5 C:\xampp\htdocs\casn\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\casn\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\casn\system\View\View.php(230): CodeIgniter\View\View->render('temp/tempcore', Array, true)
+#8 C:\xampp\htdocs\casn\system\Common.php(1097): CodeIgniter\View\View->render('admin/index', Array, true)
+#9 C:\xampp\htdocs\casn\app\Controllers\Home.php(16): view('admin/index', Array)
+#10 C:\xampp\htdocs\casn\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#11 C:\xampp\htdocs\casn\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#12 C:\xampp\htdocs\casn\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\casn\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2022-03-01 18:53:01 --> Undefined variable: group
+#0 C:\xampp\htdocs\casn\app\Controllers\Home.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31, Array)
+#1 C:\xampp\htdocs\casn\system\CodeIgniter.php(824): App\Controllers\Home->tambah()
+#2 C:\xampp\htdocs\casn\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\casn\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\casn\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-01 18:54:20 --> You must be an administrator to view this page.
+#0 C:\xampp\htdocs\casn\system\CodeIgniter.php(824): IonAuth\Controllers\Auth->index()
+#1 C:\xampp\htdocs\casn\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(APP\Controllers\Auth))
+#2 C:\xampp\htdocs\casn\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\casn\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-01 18:55:01 --> You must be an administrator to view this page.
+#0 C:\xampp\htdocs\casn\system\CodeIgniter.php(824): IonAuth\Controllers\Auth->index()
+#1 C:\xampp\htdocs\casn\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(APP\Controllers\Auth))
+#2 C:\xampp\htdocs\casn\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\casn\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-01 18:57:18 --> You must be an administrator to view this page.
+#0 C:\xampp\htdocs\casn\system\CodeIgniter.php(824): IonAuth\Controllers\Auth->index()
+#1 C:\xampp\htdocs\casn\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(APP\Controllers\Auth))
+#2 C:\xampp\htdocs\casn\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\casn\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-01 18:57:42 --> You must be an administrator to view this page.
+#0 C:\xampp\htdocs\casn\system\CodeIgniter.php(824): IonAuth\Controllers\Auth->index()
+#1 C:\xampp\htdocs\casn\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(APP\Controllers\Auth))
+#2 C:\xampp\htdocs\casn\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\casn\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-01 18:59:41 --> You must be an administrator to view this page.
+#0 C:\xampp\htdocs\casn\system\CodeIgniter.php(824): IonAuth\Controllers\Auth->index()
+#1 C:\xampp\htdocs\casn\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(APP\Controllers\Auth))
+#2 C:\xampp\htdocs\casn\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\casn\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-01 19:00:24 --> You must be an administrator to view this page.
+#0 C:\xampp\htdocs\casn\system\CodeIgniter.php(824): IonAuth\Controllers\Auth->index()
+#1 C:\xampp\htdocs\casn\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(APP\Controllers\Auth))
+#2 C:\xampp\htdocs\casn\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\casn\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-01 22:07:07 --> Undefined index: site_name
+#0 C:\xampp\htdocs\casn\app\Helpers\admin_helper.php(35): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 35, Array)
+#1 C:\xampp\htdocs\casn\app\Controllers\Usermenu.php(23): getSite()
+#2 C:\xampp\htdocs\casn\system\CodeIgniter.php(824): App\Controllers\Usermenu->slug()
+#3 C:\xampp\htdocs\casn\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usermenu))
+#4 C:\xampp\htdocs\casn\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\casn\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-01 22:07:27 --> Undefined index: site_name
+#0 C:\xampp\htdocs\casn\app\Helpers\admin_helper.php(35): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 35, Array)
+#1 C:\xampp\htdocs\casn\app\Controllers\Usermenu.php(23): getSite()
+#2 C:\xampp\htdocs\casn\system\CodeIgniter.php(824): App\Controllers\Usermenu->slug()
+#3 C:\xampp\htdocs\casn\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usermenu))
+#4 C:\xampp\htdocs\casn\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\casn\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-01 22:12:01 --> Class 'User' not found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-01 22:12:22 --> Class 'info' not found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-01 22:12:32 --> Class 'site_name' not found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-01 22:19:04 --> Undefined variable: user
+#0 C:\xampp\htdocs\casn\app\Views\temp\sidebar.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\casn\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\casn\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\casn\system\View\View.php(432): CodeIgniter\View\View->render('temp/sidebar', NULL, true)
+#4 C:\xampp\htdocs\casn\app\Views\temp\tempcore.php(3): CodeIgniter\View\View->include('temp/sidebar')
+#5 C:\xampp\htdocs\casn\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\casn\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\casn\system\View\View.php(230): CodeIgniter\View\View->render('temp/tempcore', Array, true)
+#8 C:\xampp\htdocs\casn\system\Common.php(1097): CodeIgniter\View\View->render('admin/helper', Array, true)
+#9 C:\xampp\htdocs\casn\app\Controllers\Usermenu.php(28): view('admin/helper')
+#10 C:\xampp\htdocs\casn\system\CodeIgniter.php(824): App\Controllers\Usermenu->helper()
+#11 C:\xampp\htdocs\casn\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usermenu))
+#12 C:\xampp\htdocs\casn\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\casn\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
